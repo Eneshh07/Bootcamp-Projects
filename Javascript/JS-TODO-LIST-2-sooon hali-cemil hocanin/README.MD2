@@ -1,0 +1,30 @@
+Script.js 'de ne  YAPTIK OZETI
+//step1
+<li> </li>
+
+//step2
+<li> Go to the market</li>
+
+//step3
+<span> </span>
+
+//step4
+<span>(remove)</span>
+
+//step5
+<span style="color: red;">(remove)</span>
+
+//step6(append child yaptik li icine)
+<li>
+ Go to the market-
+<span style="color: red;">(remove)</span>
+</li>
+
+//step7(append chil yaptik)
+<ul id="task_list>
+<li>
+ Go to the market-
+<span style="color: red;">(remove)</span>
+</li>
+</ul>
+
