@@ -1,0 +1,16 @@
+.formField
+{
+     width: 500px;
+     margin: 0 auto;
+     padding: 0;
+}
+
+.formField input 
+{
+    margin-top: 10px;/*input ustten boslugu*/
+    height: 40px;/*input yuksekligi*/
+    line-height: 25px;/*satir boslugu*/
+    width: 100%;/*saga sola tam yaslanmasi icin*/
+    text-indent: 10px; /*paragraf boslugu*/
+
+}

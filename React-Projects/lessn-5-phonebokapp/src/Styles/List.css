@@ -1,0 +1,44 @@
+.listField {
+    width:500px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.listField li {
+
+    padding: 5px;
+    background-color:#f5f5f5;
+    color:black;
+    border-bottom: solid 1px #f8f8f8;
+    clear: both;
+}
+
+.listField li span {
+    display:block;
+}
+
+.listField li span.name {
+    float: left;
+}
+
+.listField li span.phone {
+    float: right;
+}
+
+
+.listField input 
+{
+    margin-top: 10px;/*input ustten boslugu*/
+    height: 40px;/*input yuksekligi*/
+    line-height: 25px;/*satir boslugu*/
+    width: 100%;/*saga sola tam yaslanmasi icin*/
+    text-indent: 10px; /*paragraf boslugu*/
+
+}
+
+ul,li
+{
+ list-style-type: none;/*Liste isaretini kaldir*/
+ margin: 0;
+ padding: 0;
+}
